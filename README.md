@@ -1,4 +1,4 @@
-# njuthesis
+# Style Guide for Thesis 
 南京大学本科毕业论文样式指南
 
 根据南京大学本科生院的论文模板，本文档拓展讲解毕业论文排版常见问题。文档采用南京大学Linux用户组开发的论文模板[NJUThesis](https://github.com/nju-lug/NJUThesis)撰写。
