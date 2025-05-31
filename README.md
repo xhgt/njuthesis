@@ -132,3 +132,9 @@ esttab OLS BE FE RE HT using results.rtf, ///
 \renewcommand{\theguiderule}{\thechapter-\arabic{guiderule}}
 \renewcommand{\therecommendation}{\thechapter-\arabic{recommendation}}
 ```
+
+# 致谢
+
+感谢南京大学Linux用户组在github上解答疑问！
+
+
