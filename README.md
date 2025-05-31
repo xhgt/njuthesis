@@ -18,6 +18,7 @@ xtreg lwage $xilist, re vce(robust)
 estimates store RE
 xthtaylor lwage $xilist, endog(ed exp exp2 wks ms union) vce(robust)
 estimates store HT
+
 // 五个回归结果列表输出到results.rtf
 esttab OLS BE FE RE HT using results.rtf, ///
  b(4) se(4)                   ///系数和标准误保留4位小数
