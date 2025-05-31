@@ -135,6 +135,6 @@ esttab OLS BE FE RE HT using results.rtf, ///
 
 # 致谢
 
-感谢南京大学Linux用户组在github上解答疑问！
+感谢南京大学Linux用户组的 atxy-blip 在github上解答疑问！
 
 
