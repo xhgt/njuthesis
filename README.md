@@ -1,5 +1,5 @@
 # 南京大学本科毕业论文样式指南
-根据南京大学本科生院的论文模板，讲解毕业论文WORD排版风格。文档采用南京大学Linux用户组开发的论文模板[NJUThesis](https://github.com/nju-lug/NJUThesis)撰写。
+根据南京大学本科生院的毕业论文模板，讲解学位论文的WORD排版风格。
 
 # 使用方法
 下载PDF文档观看即可。
@@ -47,6 +47,6 @@ esttab OLS BE FE RE HT using results.rtf, ///
 
 # 致谢
 
-感谢南京大学Linux用户组的 atxy-blip 在github上解答疑问！
+文档采用南京大学Linux用户组开发的论文模板[NJUThesis](https://github.com/nju-lug/NJUThesis)撰写（WORD排版可忽略）。感谢南京大学Linux用户组的 atxy-blip 在github上解答疑问！
 
 
